@@ -12,6 +12,8 @@ public class telaInicial extends Activity {
 	protected void onCreate (Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 
+		
+		//MASH BAHHHH!
 		EditText emailConta = (EditText) findViewById (R.id.editText1);
 		EditText senhaConta = (EditText) findViewById (R.id.editText2);
 		EditText nomeCadastro = (EditText) findViewById (R.id.editText3);
