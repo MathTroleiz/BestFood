@@ -14,7 +14,6 @@ public class tela_restaurante extends Activity{
 		TextView endereco = (TextView)findViewById(R.id.end);
 		TextView telefone = (TextView)findViewById(R.id.fone);
 		TextView horario = (TextView)findViewById(R.id.horario);
-		// Esta tudo errado
 	}
 
 }
